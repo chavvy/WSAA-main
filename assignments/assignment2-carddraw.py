@@ -1,3 +1,4 @@
+#A program that shuffles a deck and draws 5 cards from that deck
 import requests
 
 #get request
