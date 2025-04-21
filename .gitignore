@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 assignments/config.py
+mywork/lab5/config.py
