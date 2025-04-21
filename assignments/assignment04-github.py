@@ -1,3 +1,6 @@
+#A program to fetch a file from a private github repository
+#Replaces the text in the txt file in that repository, commits and pushes the changes
+
 import requests
 from github import Github
 import json
